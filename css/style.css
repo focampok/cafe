@@ -36,7 +36,7 @@ body a:hover{
 /*-- banner --*/
 .banner {
     min-height: 780px;
-    background: url(../images/banner.jpg)no-repeat center 0px;
+    background: url(../images/cc/banner.jpg)no-repeat center 0px;
     background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -582,7 +582,7 @@ font-weight:600;
 /*-- /services--*/
 .agile-services-w3 {
     min-height:500px;
-    background: url(../images/contact.jpg)no-repeat center 0px;
+    background: url(../images/cc/contact.jpg)no-repeat center 0px;
     background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
