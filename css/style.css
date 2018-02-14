@@ -744,44 +744,44 @@ h3.tittle.ser {
 	opacity: 1;
 }
 a.hi-icon.icon1 {
-    background: url(../images/1.png) no-repeat 25px 30px #222222;
+    background: url(../images/cc/1.png) no-repeat 25px 30px #222222;
     display: block;
     width:120px;
     height:120px;
     margin: 0 auto;
 }
 a.hi-icon.icon2 {
-    background: url(../images/2.png) no-repeat 28px 25px #222222;
+    background: url(../images/cc/2.png) no-repeat 28px 25px #222222;
     display: block;
     width:120px;
     height:120px;
     margin: 0 auto;
 }
 a.hi-icon.icon3 {
-       background: url(../images/3.png) no-repeat 25px 30px #222222;
+       background: url(../images/cc/3.png) no-repeat 25px 30px #222222;
     display: block;
     width:120px;
     height:120px;
     margin: 0 auto;
 }
 a.hi-icon.icon4 {
-       background: url(../images/4.png) no-repeat 25px 30px #222222;
+       background: url(../images/cc/4.png) no-repeat 25px 30px #222222;
     display: block;
     width:120px;
     height:120px;
     margin: 0 auto;
 }
 a.hi-icon.icon1:hover {
-    background: url(../images/1.png) no-repeat 25px 30px #ff8c00;
+    background: url(../images/cc/1.png) no-repeat 25px 30px #ff8c00;
 }
 a.hi-icon.icon2:hover {
-	  background: url(../images/2.png) no-repeat 28px 25px #ff8c00;
+	  background: url(../images/cc/2.png) no-repeat 28px 25px #ff8c00;
 }
 a.hi-icon.icon3:hover{
-	   background: url(../images/3.png) no-repeat 25px 30px #ff8c00;
+	   background: url(../images/cc/3.png) no-repeat 25px 30px #ff8c00;
 }
 a.hi-icon.icon4:hover {
-	   background: url(../images/4.png) no-repeat 25px 30px #ff8c00;
+	   background: url(../images/cc/4.png) no-repeat 25px 30px #ff8c00;
 }
 /*-- //effect7 --*/
 /*-- //services--*/
@@ -1038,8 +1038,8 @@ span.simply-word {
 	  -o-transition: opacity .35s,-webkit-transform .35s;
 	    -moz-transition: opacity .35s,-webkit-transform .35s;
     background-color: transparent;
-    position: absolute;
-    margin: 0;
+    position: absolute;    
+    bottom: 20;
 }
 .ehover8 p a {
     color: #fff;
